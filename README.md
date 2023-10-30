@@ -33,17 +33,17 @@ This application is an enhancement of the original project taught in the React N
 
 This project is primarily intended for demonstration purposes to showcase skills. While you're welcome to view and learn from the code, please be aware that it's not intended for reuse or distribution. Kindly contact the repository owner for any further inquiries or permissions.
 
-### Screenshots
-🚫 Disclaimer: The restaurants depicted in the app screenshots and any related content are not affiliated with, endorsed by, sponsored by, or in any way associated with this project or its creator. The images and content are sourced from the Yelp API and are utilized purely for demonstration purposes in this project.
+## Screenshots
+🚫 **Disclaimer:** The restaurants depicted in the app screenshots and any related content are not affiliated with, endorsed by, sponsored by, or in any way associated with this project or its creator. The images and content are sourced from the Yelp API and are utilized purely for demonstration purposes in this project.
 
 <div align="center">
 <table>
   <tr>
-    <td><img src="./screenshots/Screen1.png" alt="Description 1" width="100"/></td>
-    <td><img src="path_to_image2.png" alt="Description 2" width="100"/></td>
-    <td><img src="path_to_image3.png" alt="Description 3" width="100"/></td>
-    <td><img src="path_to_image4.png" alt="Description 4" width="100"/></td>
-    <td><img src="path_to_image5.png" alt="Description 5" width="100"/></td>
+    <td><img src="./screenshots/Screen1.png" alt="Screen 1" width="100"/></td>
+    <td><img src="./screenshots/Screen2.png" alt="Screen 2" width="100"/></td>
+    <td><img src="./screenshots/Screen3.png" alt="Screen 3" width="100"/></td>
+    <td><img src="./screenshots/Screen4.png" alt="Screen 4" width="100"/></td>
+    <td><img src="./screenshots/Screen5.png" alt="Screen 5" width="100"/></td>
   </tr>
 </table>
 </div>

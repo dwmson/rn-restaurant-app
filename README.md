@@ -36,3 +36,15 @@ This project is primarily intended for demonstration purposes to showcase skills
 ### Screenshots
 🚫 Disclaimer: The restaurants depicted in the app screenshots and any related content are not affiliated with, endorsed by, sponsored by, or in any way associated with this project or its creator. The images and content are sourced from the Yelp API and are utilized purely for demonstration purposes in this project.
 
+<div align="center">
+<table>
+  <tr>
+    <td><img src="./screenshots/Screen1.png" alt="Description 1" width="100"/></td>
+    <td><img src="path_to_image2.png" alt="Description 2" width="100"/></td>
+    <td><img src="path_to_image3.png" alt="Description 3" width="100"/></td>
+    <td><img src="path_to_image4.png" alt="Description 4" width="100"/></td>
+    <td><img src="path_to_image5.png" alt="Description 5" width="100"/></td>
+  </tr>
+</table>
+</div>
+

@@ -32,3 +32,7 @@ This application is an enhancement of the original project taught in the React N
 ## Note for Visitors
 
 This project is primarily intended for demonstration purposes to showcase skills. While you're welcome to view and learn from the code, please be aware that it's not intended for reuse or distribution. Kindly contact the repository owner for any further inquiries or permissions.
+
+### Screenshots
+🚫 Disclaimer: The restaurants depicted in the app screenshots and any related content are not affiliated with, endorsed by, sponsored by, or in any way associated with this project or its creator. The images and content are sourced from the Yelp API and are utilized purely for demonstration purposes in this project.
+

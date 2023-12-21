@@ -33,6 +33,9 @@ This application is an enhancement of the original project taught in the React N
 
 This project is primarily intended for demonstration purposes to showcase skills. While you're welcome to view and learn from the code, please be aware that it's not intended for reuse or distribution. Kindly contact the repository owner for any further inquiries or permissions.
 
+## License
+This script is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Screenshots
 <div align="center">
 <table>
